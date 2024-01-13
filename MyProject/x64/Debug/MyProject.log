@@ -1,0 +1,28 @@
+﻿  Main.c
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(54,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(55,47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(431,23): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(431,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(432,23): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(432,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(433,23): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(433,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(444,30): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(444,59): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(445,30): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(445,59): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(446,30): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(446,59): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(453,32): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(453,54): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(454,32): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(454,54): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(455,32): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(455,54): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(462,23): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(462,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(463,23): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(463,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(464,23): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\MyProject\Main.c(464,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  MyProject.vcxproj -> C:\Users\Amer Unreal PC\Desktop\3DRendererProject\3DRendererSLN\x64\Debug\MyProject.exe
