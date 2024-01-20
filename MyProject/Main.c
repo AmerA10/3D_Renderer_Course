@@ -63,8 +63,8 @@ void setup(void)
 
 
 	//TODO: Create a new mesh given the obj file, texture file, scale, translation, rotation
-	load_mesh("../assets/f22.obj", "../assets/f22.png", vec3_new(1,1,1), vec3_new(-3,0,8), vec3_new(0,0,0));
-	load_mesh("../assets/f117.obj", "../assets/f117.png", vec3_new(1,1,1), vec3_new(3,0,8), vec3_new(0,0,0));
+	load_mesh("../assets/drone.obj", "../assets/drone.png", vec3_new(1,1,1), vec3_new(-3,0,8), vec3_new(0,0,0));
+	//load_mesh("../assets/f117.obj", "../assets/f117.png", vec3_new(1,1,1), vec3_new(3,0,8), vec3_new(0,0,0));
 
 
 }
@@ -196,9 +196,9 @@ void update(void) {
 
 		mesh_t* mesh = get_mesh_at(mesh_index);
 
-		/*mesh.rotation.y += 0.6f * delta_time;*/
-		//mesh.rotation.x+= 0.6f * delta_time;
-		//mesh.rotation.z+= .002f * delta_time;
+		mesh->rotation.y += 0.6f * delta_time;
+		mesh->rotation.x+= 0.6f * delta_time;
+		mesh->rotation.z+= .002f * delta_time;
 		/*mesh.translation.z = 5.0;*/
 
 		//create a scale matrix that will be used to multiply the mesh vertices

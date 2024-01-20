@@ -34,7 +34,7 @@ bool initialize_window(void)
 		SDL_WINDOWPOS_CENTERED,
 		fullscreen_width,
 		fullscreen_height,
-		SDL_WINDOW_BORDERLESS
+		SDL_WINDOW_FULLSCREEN_DESKTOP
 	);
 	if (!window) {
 		fprintf(stderr, "Error creating SDL window.\n");
